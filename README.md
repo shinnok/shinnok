@@ -36,6 +36,7 @@ Passionate Open Source advocate and developer, Unix head and occasionally sysadm
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wxWidgets" title="wxWidgets" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-plain.svg" alt="SDL" title="SDL" width="40" height="40"/>
 </p>
 
 ## 🖥️ Operating Systems & Virtualization

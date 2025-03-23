@@ -21,7 +21,7 @@ Passionate Open Source advocate and developer, Unix head and occasionally sysadm
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C language" title="C language" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ language" title="C++ language" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go language" title="Go language" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python langage" title="Python langage" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python language" title="Python language" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash scripting" title="Bash scripting" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>

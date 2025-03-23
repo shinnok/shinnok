@@ -18,36 +18,35 @@ Passionate Open Source advocate and developer, Unix head and occasionally sysadm
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C language" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ language" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go language" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python langage" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash scripting" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL query" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C language" title="C language" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ language" title="C++ language" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go language" title="Go language" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python langage" title="Python langage" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash scripting" title="Bash scripting" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="SQL query" title="SQL query" width="40" height="40"/>
 </p>
 
 ## 🏗️ Cross-Platform Toolkits
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wxWidgets" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" title="Qt" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" title="GTK" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wxWidgets" title="wxWidgets" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" title="Unreal Engine" width="40" height="40"/>
 </p>
 
 ## 🖥️ Operating Systems & Virtualization
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" title="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="macOS" title="macOS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="40" height="40"/> 
 </p>
-
 
 
 
